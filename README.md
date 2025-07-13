@@ -101,7 +101,7 @@ A complete Postman collection is included for testing:
 
 
 ### Postman Collection
-1. Located in `docs/postman/farm-api.postman_collection.json`
+1. Located in `farm_project/docs/postman/farm-api.postman_collection.json`
 2. Includes:
    - All authentication flows
    - Farm management endpoints
