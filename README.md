@@ -100,6 +100,12 @@ Only the user who owns a farm can view, edit, or delete it. Users are not allowe
 A complete Postman collection is included for testing:
 
 
+### Postman Collection
+1. Located in `docs/postman/farm-api.postman_collection.json`
+2. Includes:
+   - All authentication flows
+   - Farm management endpoints
+   - Sample requests/responses
 
-📁 farm-api.postman_collection.json
+
 
